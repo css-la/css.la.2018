@@ -10,19 +10,12 @@ const TemplateWrapper = ({ children }) => (
     <Helmet
       title="Gatsby Default Starter"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'CSS.la is Los Angeles\'s premiere CSS user group! Join us for all things front-end design and UI development.' },
+        { name: 'keywords', content: 'css, los angeles, meetup, front-end' },
       ]}
     />
     <Header />
-    <div
-      style={{
-        margin: '0 auto',
-        maxWidth: 960,
-        padding: '0px 1.0875rem 1.45rem',
-        paddingTop: 0,
-      }}
-    >
+    <div className="wrap">
       {children()}
     </div>
   </div>
