@@ -8,7 +8,7 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="CSS.la | Los Angeles' Premiere CSS User Group"
       meta={[
         { name: 'description', content: 'CSS.la is Los Angeles\'s premiere CSS user group! Join us for all things front-end design and UI development.' },
         { name: 'keywords', content: 'css, los angeles, meetup, front-end' },
