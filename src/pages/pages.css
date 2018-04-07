@@ -5,14 +5,14 @@
 .button {
 	display: inline-block;
 	color: white;
-	background: darkcyan;
+	background: purple;
 	padding: 0.5rem 1rem;
 	border-radius: 0.5rem;
 	text-decoration: none;
 }
 
 .button:hover {
-	background: darkblue;
+	background: palevioletred;
 }
 
 .typeform-widget {
