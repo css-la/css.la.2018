@@ -8,9 +8,9 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="CSS.la | Los Angeles' Premiere CSS User Group"
+      title="CSS.la | California Style Sweets"
       meta={[
-        { name: 'description', content: 'CSS.la is Los Angeles\'s premiere CSS user group! Join us for all things front-end design and UI development.' },
+        { name: 'description', content: 'CSS.la is Los Angeles\'s premiere CSS user group! Join us for all things CSS-related.' },
         { name: 'keywords', content: 'css, los angeles, meetup, front-end' },
       ]}
     />
