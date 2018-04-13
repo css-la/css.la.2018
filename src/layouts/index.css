@@ -633,3 +633,12 @@ pre tt:after {
 	padding-top: 1rem;
 	padding-bottom: 1rem;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__link {
+  font-size: small;
+}
