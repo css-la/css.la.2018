@@ -6,7 +6,7 @@ import './pages.css';
 const IndexPage = () => (
   <main>
     <h1>Welcome to CSS.la!</h1>
-    <p>Los Angeles' premier (and brand new!) group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
+    <p>CSS.la is Los Angeles' premier (and brand new!) group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
     <p>Our next study group is scheduled for <strong>May 23, 2018 at 6:30pm</strong> in Culver City, graciously hosted by <a href="https://www.replicated.com/">Replicated</a>. Our theme for May will be "The Algorithms of CSS"!</p>
     <div className="spacer">
       <a className="button" href="https://www.meetup.com/LearnTeachCode/events/250076452/">Read More and RSVP on Meetup.com</a>
