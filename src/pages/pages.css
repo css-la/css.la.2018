@@ -1,20 +1,48 @@
 .spacer {
-	padding-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
-.button {
+.button,
+input[type="submit"] {
 	display: inline-block;
 	color: white;
-	background: purple;
+	background-color: rebeccapurple;
 	padding: 0.5rem 1rem;
 	border-radius: 0.5rem;
 	text-decoration: none;
+	border: none;
+	cursor: pointer;
 }
 
 .button:hover {
 	background: palevioletred;
 }
 
-.typeform-widget {
-	height: 300px;
+.email-signup {
+	background-color: whitesmoke;
+	border: 5px solid skyblue;
+	padding: 2rem;
+}
+
+.email-signup__label {
+	margin-bottom: 0.25rem;
+}
+
+.email-signup__input {
+	width: 100%;
+	max-width: 200px;
+	border: 2px solid cornflowerblue;
+	padding: 0.25rem 0.5rem;
+	transition-property: max-width;
+	transition-duration: 0.25s;
+}
+
+.email-signup__input:focus {
+	border-color: coral;
+	max-width: 300px;
+}
+
+.email-signup__meta {
+	font-size: 0.75rem;
+	margin-top: 1rem;
 }
