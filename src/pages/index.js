@@ -11,10 +11,14 @@ const IndexPage = () => (
     <div className="spacer">
       <a className="button" href = "https://www.meetup.com/LearnTeachCode/events/253679813/">Read More and RSVP on Meetup.com</a>
     </div>
-    <p>Here are notes from our previous meetings:</p>
+    <div className="spacer">
+      <a className="button" href="https://paper.dropbox.com/doc/CSS.la-4-Naming-Conventions-in-CSS--AMm_gQrSk6NDxcdnsPpeSD0BAg-NNwsgZES3OpJAOINatkO3">View the Notes</a>
+    </div>
+    <p>Our previous meetings (the newer ones with notes!):</p>
     <ul>
-      <li> <a href="https://paper.dropbox.com/doc/CSS.la-3-CSS-Animations-YGMB8TFeAka4O5jsLhvD5">CSS Animations!!</a>, August 21, 2018 @ <a href="
-      https: //8thlight.com/">8th Light</a></li>
+      <li><a href="https://www.meetup.com/LearnTeachCode/events/253492626/">CSS Animations!!</a> @ 8th Light, August 21, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-3-CSS-Animations-YGMB8TFeAka4O5jsLhvD5">Notes</a></li>
+      <li><a href="https://www.meetup.com/LearnTeachCode/events/250076452/">Learn About Algorithms in CSS</a> @ Replicated, May 23, 2018</li>
+      <li><a href="https://www.meetup.com/LearnTeachCode/events/249510027/">Learn about CSS and Browser Mechanics</a> @ Open Listings, April 25, 2018</li>
     </ul>
     <section className="email-signup spacer">
       <h3>Email List</h3>
