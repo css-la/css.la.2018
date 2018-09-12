@@ -6,13 +6,13 @@ import './pages.css';
 const IndexPage = () => (
   <main>
     <h1>Welcome to CSS.la 🌴</h1>
+    <div className="spacer">
+      <a className="button" href="https://paper.dropbox.com/doc/CSS.la-4-Naming-Conventions-in-CSS--AMm_gQrSk6NDxcdnsPpeSD0BAg-NNwsgZES3OpJAOINatkO3">Tonight's Notes</a>
+    </div>
     <p>CSS.la is Los Angeles' premier group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly-ish study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
     <p>Our next meeting is <strong>September 12</strong>, graciously hosted by <a href="https://fender.com/">Fender Guitars</a> in Hollywood. Our topic this month will be naming conventions in CSS!</p>
     <div className="spacer">
       <a className="button" href = "https://www.meetup.com/LearnTeachCode/events/253679813/">Read More and RSVP on Meetup.com</a>
-    </div>
-    <div className="spacer">
-      <a className="button" href="https://paper.dropbox.com/doc/CSS.la-4-Naming-Conventions-in-CSS--AMm_gQrSk6NDxcdnsPpeSD0BAg-NNwsgZES3OpJAOINatkO3">View the Notes</a>
     </div>
     <p>Our previous meetings (the newer ones with notes!):</p>
     <ul>
