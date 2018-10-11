@@ -9,6 +9,9 @@ const IndexPage = () => (
     <p>CSS.la is Los Angeles' premier group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly-ish study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
     <p>Our next meeting is <strong>October 10</strong>, graciously hosted by <a href="https://www.replicated.com/">Replicated</a> in Culver City!</p>
     <div className="spacer">
+	<a className="button" href="https://paper.dropbox.com/doc/CSS.la-5-a11y-Accessibility--AO96X1eWzh9_V4eSEXhPC_nGAg-FWnNCYELcMICEuhZqkwng">CSS.la #5 Notes</a>
+	<br />
+	<br />
       <a className="button" href= "https://www.meetup.com/LearnTeachCode/events/254676315/?isFirstPublish=true">Read More and RSVP on Meetup.com</a>
     </div>
     <p>Our previous meetings (the newer ones with notes!):</p>
