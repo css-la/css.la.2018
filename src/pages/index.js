@@ -7,19 +7,17 @@ const IndexPage = () => (
   <main>
     <h1>Welcome to CSS.la 🌴</h1>
     <p>CSS.la is Los Angeles' premier group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly-ish study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
-    <p>Our next meeting is <strong>October 10</strong>, graciously hosted by <a href="https://www.replicated.com/">Replicated</a> in Culver City!</p>
+    <p>Our next meeting is <strong>November 8</strong>, graciously hosted by <a href="https://www.openlistings.com/">Open Listings</a> in Silver Lake! Our theme will be CSS Grid...it's ready, are you ready?</p>
     <div className="spacer">
-	<a className="button" href="https://paper.dropbox.com/doc/CSS.la-5-a11y-Accessibility--AO96X1eWzh9_V4eSEXhPC_nGAg-FWnNCYELcMICEuhZqkwng">CSS.la #5 Notes</a>
-	<br />
-	<br />
-      <a className="button" href= "https://www.meetup.com/LearnTeachCode/events/254676315/?isFirstPublish=true">Read More and RSVP on Meetup.com</a>
+		<a className="button" href= "https://www.meetup.com/LearnTeachCode/events/255433621/">Read More and RSVP on Meetup.com</a>
     </div>
     <p>Our previous meetings (the newer ones with notes!):</p>
     <ul>
-      <li><a href="https://www.meetup.com/LearnTeachCode/events/253679813/">Naming Conventions in CSS</a> @ Fender, September 12, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-4-Naming-Conventions-in-CSS--AMm_gQrSk6NDxcdnsPpeSD0BAg-NNwsgZES3OpJAOINatkO3">Notes</a></li>
-      <li><a href="https://www.meetup.com/LearnTeachCode/events/253492626/">CSS Animations!!</a> @ 8th Light, August 21, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-3-CSS-Animations-YGMB8TFeAka4O5jsLhvD5">Notes</a></li>
-      <li><a href="https://www.meetup.com/LearnTeachCode/events/250076452/">Learn About Algorithms in CSS</a> @ Replicated, May 23, 2018</li>
-      <li><a href="https://www.meetup.com/LearnTeachCode/events/249510027/">Learn about CSS and Browser Mechanics</a> @ Open Listings, April 25, 2018</li>
+		<li><a href="https://www.meetup.com/LearnTeachCode/events/254676315/">a11y</a> @ Replicated, October 10, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-5-a11y-Accessibility--AO96X1eWzh9_V4eSEXhPC_nGAg-FWnNCYELcMICEuhZqkwng">Notes</a></li>
+		<li><a href="https://www.meetup.com/LearnTeachCode/events/253679813/">Naming Conventions in CSS</a> @ Fender, September 12, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-4-Naming-Conventions-in-CSS--AMm_gQrSk6NDxcdnsPpeSD0BAg-NNwsgZES3OpJAOINatkO3">Notes</a></li>
+		<li><a href="https://www.meetup.com/LearnTeachCode/events/253492626/">CSS Animations!!</a> @ 8th Light, August 21, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-3-CSS-Animations-YGMB8TFeAka4O5jsLhvD5">Notes</a></li>
+		<li><a href="https://www.meetup.com/LearnTeachCode/events/250076452/">Learn About Algorithms in CSS</a> @ Replicated, May 23, 2018</li>
+		<li><a href="https://www.meetup.com/LearnTeachCode/events/249510027/">Learn about CSS and Browser Mechanics</a> @ Open Listings, April 25, 2018</li>
     </ul>
     <section className="email-signup spacer">
       <h3>Email List</h3>
