@@ -8,6 +8,9 @@ const IndexPage = () => (
     <h1>Welcome to CSS.la 🌴</h1>
     <p>CSS.la is Los Angeles' premier group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly-ish study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
     <p>Our next meeting is <strong>November 8</strong>, graciously hosted by <a href="https://www.openlistings.com/">Open Listings</a> in Silver Lake! Our theme will be CSS Grid...it's ready, are you ready?</p>
+	<div className="spacer">
+		<a className="button" href= "https://paper.dropbox.com/doc/CSS.la-6-Using-CSS-Grid-Today--ARVrAD9w~dGrR_I_wu0gIfNPAg-kBtl03ocCi84NjDbs1dEB">Tonight's Notes</a>
+    </div>
     <div className="spacer">
 		<a className="button" href= "https://www.meetup.com/LearnTeachCode/events/255433621/">Read More and RSVP on Meetup.com</a>
     </div>
