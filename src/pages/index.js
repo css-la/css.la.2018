@@ -72,7 +72,7 @@ const IndexPage = () => (
         </p>
       </form>
     </section>
-    <p>Have a question, concern, or would you like to help with CSS.la? Send an email to Scott Gruber @ <a href="mailto:hello@scottgruber.me">hello@scottgruber.me</a>.</p>
+    <p>Have a question, concern, or would you like to help with CSS.la? Send email to Scott Gruber @ <a href="mailto:hello@scottgruber.me">hello@scottgruber.me</a>.</p>
   </main>
 )
 
