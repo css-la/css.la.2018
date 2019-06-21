@@ -47,8 +47,7 @@ a:hover {
 }
 abbr[title] {
   border-bottom: none;
-  text-decoration: underline;
-  text-decoration: underline dotted;
+  text-decoration: underline dotte;
 }
 b,
 strong {
