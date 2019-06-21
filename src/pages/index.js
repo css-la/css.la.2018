@@ -7,7 +7,7 @@ const IndexPage = () => (
   <main>
     <h1>Welcome to CSS.la 🌴</h1>
     <p>CSS.la is Los Angeles' premier group for CSS and front-end enthusiasts. So far, CSS.la consists of a monthly-ish study group through <a href="https://www.meetup.com/LearnTeachCode/">Learn Teach Code</a>, a fantastic and supportive community of developers all over the Los Angeles area.</p>
-    <p>Our next meeting is not planned quite yet, but sign up for our email list below to be notified!</p>
+    <p>Our next meeting is planned for July 31st at Black Tux. Please sign up for our email list below to be notified!</p>
     <p>Our previous meetings (the newer ones with notes!):</p>
     <ul>
 		<li><a href="https://www.meetup.com/LearnTeachCode/events/255433621/">CSS Grid</a> @ Open Listings, November 8, 2018, <a href="https://paper.dropbox.com/doc/CSS.la-6-Using-CSS-Grid-Today--ARVrAD9w~dGrR_I_wu0gIfNPAg-kBtl03ocCi84NjDbs1dEB">Notes</a></li>
